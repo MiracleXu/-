@@ -22,9 +22,9 @@ java后端开发2年
 斗鱼在武汉，不想去，oyo和驴妈妈考虑了下，感觉驴妈妈更稳重点，oyo未来不好预估，且驴妈妈名声大点，遂决定驴妈妈
 
 ### 面试主要问题
-* java jdk源码相关
--- 集合！这个是必考题！100%的面试都会问collection接口和map接口下面的知识，要在源码层次掌握，例如ArrayList与LinkedList自动增长的实现有何区别（驴妈妈问到过）参考链接：https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%AE%B9%E5%99%A8.md#collection
-** java.lang包！60%概率考察到！基本的数据类型和封装类型，以及一些基础的方法，像equals()与“=”的区别（喜马拉雅FM问到过）啊，hashcode()的实现（蚂蚁金服），toString()的重写（携程）之类的，线程相关的也几乎是必考！线程的生命周期（oyo）之类的
+1. java jdk源码相关
+1.1. 集合！这个是必考题！100%的面试都会问collection接口和map接口下面的知识，要在源码层次掌握，例如ArrayList与LinkedList自动增长的实现有何区别（驴妈妈问到过）参考链接：https://github.com/CyC2018/Interview-Notebook/blob/master/notes/Java%20%E5%AE%B9%E5%99%A8.md#collection
+1.2. java.lang包！60%概率考察到！基本的数据类型和封装类型，以及一些基础的方法，像equals()与“=”的区别（喜马拉雅FM问到过）啊，hashcode()的实现（蚂蚁金服），toString()的重写（携程）之类的，线程相关的也几乎是必考！线程的生命周期（oyo）之类的
 
 - java jvm相关
 -- GC的原理（oyo/斗鱼问到过）
